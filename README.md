@@ -1,4 +1,4 @@
-# INGENIERÏA INFORMÁTICA 
+# INGENIERÍA INFORMÁTICA 
 
 ## MATERIA: **Laboratrorio IV** 
 
